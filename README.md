@@ -1,3 +1,3 @@
-# Ola Mundo
- Repositório do curso de github do Curso em Vídeo
+# Olá, Mundo!
+ Repositório do curso de GIT/GITHUB do Curso em Vídeo.
 <hr>
