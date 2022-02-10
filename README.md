@@ -1,3 +1,4 @@
 # Olá, Mundo!
- Repositório do curso de GIT/GITHUB do Curso em Vídeo.
+1º Repositório do curso de GIT/GITHUB.
 <hr>
+Curso criado e apresentado ao vivo por: Curso em Vídeo.
